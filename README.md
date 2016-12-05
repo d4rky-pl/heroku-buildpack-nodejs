@@ -29,7 +29,7 @@ First, find the version you want from
 Then, specify that version with `buildpacks:set`:
 
 ```
-heroku buildpacks:set https://github.com/heroku/heroku-buildpack-nodejs#v83 -a my-app
+heroku buildpacks:set https://github.com/heroku/heroku-buildpack-nodejs#v91 -a my-app
 ```
 
 If you have trouble upgrading to the latest version of the buildpack, please
